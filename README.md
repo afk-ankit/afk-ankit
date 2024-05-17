@@ -1,12 +1,24 @@
 # Hi there, I'm Ankit Sharma! 👋
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/70052818?v=4" width="200" height="200" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2;">
+    <h3 style="text-decoration:underline">🩷 React.js Fanatic and 🧙‍♂️ Code Conjurer</h3>
+    <p>
+      Hey! I'm Ankit, a full stack web developer who talks to computers more than humans. With over 4+ years of experience, I've been building both personal and freelance projects, mostly powered by caffeine and the occasional stroke of genius. If it's in React or Express, I've probably done it or will do it by the end of the week. <br/>
+      I speak JavaScript better than my native language. I'm on a mission to conquer the web, one React component at a time. Whether you're baffled by hooks or tangled in Redux, fear not! I'm here to debug your code and save the day.
+    </p>
+  </div>
+  <div style="flex: 1; padding: 20px; display:grid; place-items:center; min-width:200px;">
+    <img src="https://i.pinimg.com/564x/5d/98/e1/5d98e1f50ecd12004269fbfa0ada2a9d.jpg" width="200" height="200" style="border-radius: 50%;" />
+  </div>
+</div>
 
-## React.js Lover and Code Whisperer
+---
+### 🎯 Future Plans
 
-Hey! I'm Ankit, a full stack web developer who talks to computers more than humans. With over 4 years of experience, I've been building both personal and freelance projects, mostly powered by caffeine and the occasional stroke of genius. If it's in React or Express, I've probably done it or will do it by the end of the week.
+  I'm now venturing into the wild, untamed world of open source! 🌍 
+  I'm ready to fork, clone, and commit my way to glory.<br />
+  So, if you see a new star ⭐ on your project, it might just be me exploring the vast universe of code!
 
 ---
 
@@ -57,20 +69,42 @@ Hey! I'm Ankit, a full stack web developer who talks to computers more than huma
 
 ---
 
-### 💼 Connect with Me
+### 💬 Let's Connect!
+
+Got questions about web development, React.js, or Express.js? I've got answers (and memes)! Slide into my DMs or drop an email. Let's build some awesome stuff together!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsharmagh093@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sharma-0b0b9b223/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ankit6901sh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ankixt_)
 
 ---
 
 ### 🎮 Personal Interests
 
-- Coding enthusiast
-- Gamer
-- Guitarist
+Let's take a peek into my personal life... because who doesn't want to know? 🕵️‍♂️
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Coding Enthusiast</strong><br>
+      When I'm not coding, I'm probably dreaming in code. I see semicolons in my sleep. 😴
+    </td>
+    <td valign="top">
+      <strong>Gamer 🎮</strong><br>
+      Leveling up in games and in life. Catch me on the battlefield, or let's team up to build the ultimate app!
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Guitarist 🎸</strong><br>
+      Strumming my way through bugs and melodies. Sometimes I think my guitar solos can fix any code issue. 🎶
+    </td>
+    <td valign="top">
+      <strong>Coffee Connoisseur ☕</strong><br>
+      Powered by coffee! Espresso, latte, cappuccino - you name it, I've coded with it. The code runs on caffeine!
+    </td>
+  </tr>
+</table>
 
 ---
 
