@@ -1,17 +1,12 @@
 # Hi there, I'm Ankit Sharma! 👋
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 2;">
-    <h3 style="text-decoration:underline">🩷 React.js Fanatic and 🧙‍♂️ Code Conjurer</h3>
-    <p>
-      Hey! I'm Ankit, a full stack web developer who talks to computers more than humans. With over 4+ years of experience, I've been building both personal and freelance projects, mostly powered by caffeine and the occasional stroke of genius. If it's in React or Express, I've probably done it or will do it by the end of the week. <br/>
-      I speak JavaScript better than my native language. I'm on a mission to conquer the web, one React component at a time. Whether you're baffled by hooks or tangled in Redux, fear not! I'm here to debug your code and save the day.
-    </p>
-  </div>
-  <div style="flex: 1; padding: 20px; display:grid; place-items:center; min-width:200px;">
-    <img src="https://i.pinimg.com/564x/5d/98/e1/5d98e1f50ecd12004269fbfa0ada2a9d.jpg" width="200" height="200" style="border-radius: 50%;" />
-  </div>
-</div>
+   ### 🩷 React.js Fanatic and 🧙‍♂️ Code Conjurer
+
+   Hey! I'm Ankit, a full stack web developer who talks to computers more than humans. With over 4+ years of experience, I've been building both personal and freelance projects, mostly powered by caffeine and the occasional stroke of genius. If it's in React or Express, I've probably done it or will do it by the end of the week. <br/>      I speak JavaScript better than my native language. I'm on a mission to conquer the web, one React component at a time. Whether you're baffled by hooks or tangled in Redux, fear not! I'm here to debug your code and save the day.
+
+   <p align="center">
+    <img src="https://i.pinimg.com/564x/5d/98/e1/5d98e1f50ecd12004269fbfa0ada2a9d.jpg" width="200" height="200"/>
+   </p>
 
 ---
 ### 🎯 Future Plans
