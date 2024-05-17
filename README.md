@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="200" />
 </p>
+
 ---
 
 ### 🛠️ My Skills
@@ -139,14 +140,17 @@ Let's take a peek into my personal life... because who doesn't want to know? �
 
 ### 📊 GitHub Statistics
 
-![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afk-ankit&theme=dark)
+<div align="center">
+
+![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afk-ankit&theme=dark&hide_border=true)
 <br>
 <!-- ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afk-ankit&show_icons=true&theme=dark) -->
 
-![Ankit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afk-ankit&layout=compact&theme=dark)
+![Ankit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afk-ankit&layout=compact&theme=dark&hide_border=true&card_width=495)
+
+</div>
 
 ---
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afk-ankit.afk-ankit)
 
