@@ -15,6 +15,9 @@
   I'm ready to fork, clone, and commit my way to glory.<br />
   So, if you see a new star ⭐ on your project, it might just be me exploring the vast universe of code!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="200" />
+</p>
 ---
 
 ### 🛠️ My Skills
@@ -56,14 +59,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afk-ankit&theme=dark)
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afk-ankit&show_icons=true&theme=dark)
-![Ankit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afk-ankit&layout=compact&theme=dark)
-
----
-
 ### 💬 Let's Connect!
 
 Got questions about web development, React.js, or Express.js? I've got answers (and memes)! Slide into my DMs or drop an email. Let's build some awesome stuff together!
@@ -81,7 +76,7 @@ Let's take a peek into my personal life... because who doesn't want to know? �
 <table>
   <tr>
     <td valign="top">
-      <strong>Coding Enthusiast</strong><br>
+      <strong>Coding Enthusiast 💻</strong><br>
       When I'm not coding, I'm probably dreaming in code. I see semicolons in my sleep. 😴
     </td>
     <td valign="top">
@@ -102,13 +97,56 @@ Let's take a peek into my personal life... because who doesn't want to know? �
 </table>
 
 ---
+### 🤣 Fun Facts About Coding
 
-<!-- ### 🚀 Projects
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" />
+      <br>
+      <strong>Bug-free code? What's that?</strong><br>
+      Debugging is like being the detective in a crime movie where you're also the murderer.
+    </td>
+    <td valign="top">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" />
+      <br>
+      <strong>Code Review</strong><br>
+      When you review code and realize your past self was your worst enemy.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="150" />
+      <br>
+      <strong>Stack Overflow</strong><br>
+      Why write code from scratch when you can copy-paste from Stack Overflow?
+    </td>
+    <td valign="top">
+      <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="150" />
+      <br>
+      <strong>Monday Morning Coding</strong><br>
+      When you're supposed to be coding but end up browsing memes for "inspiration."
+    </td>
+  </tr>
+</table>
+
+### 🚀 Projects
 *Coming soon...*
 
 ### 📚 Blog Posts
 *Coming soon...*
--->
+
+
+### 📊 GitHub Statistics
+
+![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afk-ankit&theme=dark)
+<br>
+<!-- ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afk-ankit&show_icons=true&theme=dark) -->
+
+![Ankit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afk-ankit&layout=compact&theme=dark)
+
+---
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afk-ankit.afk-ankit)
 
